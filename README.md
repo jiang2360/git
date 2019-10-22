@@ -22,3 +22,22 @@
 * 把本地仓库提交到远程仓库
 
 
+### 常用命令
+#### gitk
+* 一个图形界面
+* 查看每一次提交的信息
+
+#### git log
+* 查看说有commit信息
+
+#### git reset --hard
+* 从暂存区恢复到工作区
+
+
+#### git checkout 
+* 用来切换分支
+* git checkout [branchName]
+
+#### git brach 
+* 查看分支
+
